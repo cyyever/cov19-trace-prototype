@@ -1,1 +1,1 @@
-# cov19-trace-prototype
+# cov19id-trace-prototype
